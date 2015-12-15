@@ -1,0 +1,1 @@
+This program will non-recursively count the number of directories in a folder using python.
